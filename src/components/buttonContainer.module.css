@@ -1,0 +1,19 @@
+.buttonContainer{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 90%;
+  gap: 5px;
+ border: 0px solid black;
+
+  font-size: 18px;
+}
+
+.botton{
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  border-color: rgba(0, 0, 0, 0.226);
+  border-radius: 5px;
+}
